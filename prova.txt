@@ -1,10 +1,14 @@
-fyfyfy
-gg 
+aaaafyfyfy
+pppgg 
 aosdfhsdjfhsdj
-aewrreki
+lllaewrreki
 asdasdpppooooo
 <<<<<<< HEAD
 ufutuf
 =======
 sette
+<<<<<<< HEAD
 >>>>>>> b62671e1442ea3091b161dcbfd0d0f8948647608
+=======
+sss
+>>>>>>> 0a2eb2a4ca895b07a8133ca31ad70c4051c248c8
