@@ -3,4 +3,8 @@ gg
 aosdfhsdjfhsdj
 aewrreki
 asdasdpppooooo
+<<<<<<< HEAD
 ufutuf
+=======
+sette
+>>>>>>> b62671e1442ea3091b161dcbfd0d0f8948647608
